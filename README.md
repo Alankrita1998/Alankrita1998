@@ -7,8 +7,8 @@ I am well-versed in version control with Git, continuous integration and deploym
 Beyond my 9-5 responsibilities, I am committed to continuous learning and skill enhancement. I actively work on personal projects, experimenting with new technologies and implementing them in my applications. I am driven by curiosity and a deep interest in understanding the "why" and "how" behind every piece of logic I encounter.
 
 
-- 🔭 I’m currently working at Accenture
-- 📫 Skilled in : HTML,CSS,JavaScript,React,Git,GraphQL
-- 🌱 Competent in : Jenkins, Kubernetes , interactions with APIs and RESTful Services
-- ⚡ Certified in : AZ-900: Microsoft Azure Fundamentals 
-- 💬 Contact : www.linkedin.com/in/alankrita-mohapatra
+ 🔭 I’m currently working at **Accenture**
+ 📫 **Skilled in** : -HTML -CSS -JavaScript -React -Git -GraphQL
+ 🌱 **Competent in** : -Jenkins -Kubernetes -interactions with APIs and RESTful Services
+ ⚡ **Certified in** : AZ-900: Microsoft Azure Fundamentals 
+ 💬 **Contact** : www.linkedin.com/in/alankrita-mohapatra
