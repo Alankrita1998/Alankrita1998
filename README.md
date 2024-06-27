@@ -9,6 +9,6 @@ Beyond my 9-5 responsibilities, I am committed to continuous learning and skill 
 
  - 🔭 *I’m currently working at* **Accenture**
  - 📫 **Skilled in** : *HTML, CSS, JavaScript, React, Git, GraphQL*
- -🌱 **Competent in** : *Jenkins, Kubernetes , interactions with APIs and RESTful Services*
- -⚡ **Certified in** : *AZ-900: Microsoft Azure Fundamentals*
- -💬 **Contact** : *www.linkedin.com/in/alankrita-mohapatra*
+ - 🌱 **Competent in** : *Jenkins, Kubernetes , interactions with APIs and RESTful Services*
+ - ⚡ **Certified in** : *AZ-900: Microsoft Azure Fundamentals*
+ - 💬 **Contact** : *www.linkedin.com/in/alankrita-mohapatra*
