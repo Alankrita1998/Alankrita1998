@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am a passionate frontend developer with 2.4 years of corporate experience. My expertise lies in the React framework, along with proficiency in JavaScript, HTML, and CSS. I have successfully worked on Microfrontend Architecture to optimize existing applications within my organization.
+I am a passionate DevOps and Frontend Engineer with 3+ years of experience in automating deployments, managing incidents, and configuring cloud
+infrastructure. Skilled in Jenkins, Docker, Kubernetes, Terraform, and React.js. Experienced in building scalable applications and delivering
+responsive user interfaces.
 
 I am well-versed in version control with Git, continuous integration and deployment using Jenkins, and container orchestration with Kubernetes. My experience includes handling deployments and resolving server issues.
 
@@ -10,5 +12,5 @@ Beyond my 9-5 responsibilities, I am committed to continuous learning and skill 
  - 🔭 *I’m currently working at* **Accenture**
  - 📫 **Skilled in** : *HTML, CSS, JavaScript, React, Git, GraphQL*
  - 🌱 **Competent in** : *Jenkins, Kubernetes , interactions with APIs and RESTful Services*
- - ⚡ **Certified in** : *AZ-900: Microsoft Azure Fundamentals*
+ - ⚡ **Certified in** : *AZ-900: Microsoft Azure Fundamentals,AZ-104 Microsoft Certified: Azure Administrator Associate,AZ-400 Microsoft Certified: DevOps Engineer Expert*
  - 💬 **Contact** : *www.linkedin.com/in/alankrita-mohapatra*
