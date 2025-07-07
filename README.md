@@ -11,10 +11,10 @@ Beyond my 9-5 responsibilities, I am committed to continuous learning and skill 
 
 🔭 *I’m currently working at* **Accenture**
 
-📫 **Skilled in:** Python, Bash, Shell Scripting, HTML, CSS, JavaScript, React.js, Redux, Tailwind CSS, Git, GraphQL
-🌱 **Competent in:** Jenkins, Kubernetes, Docker, Terraform, Helm, Azure DevOps, Docker Registry, GitHub, Keycloak, CNVault, interactions with APIs and RESTful Services
-☁️ **Cloud Experience:** Microsoft Azure, AWS
-🛠️ **DevOps & Infrastructure:** CI/CD Pipelines, Infrastructure as Code (IaC), Containerization, Secrets Management
-📜 **Scripting & Automation:** Python, Bash, Linux Commands
-⚡ **Certified in:** AZ-900: Microsoft Azure Fundamentals, AZ-104: Azure Administrator Associate, AZ-400: DevOps Engineer Expert
+📫 **Skilled in:** *Python, Bash, Shell Scripting, HTML, CSS, JavaScript, React.js, Redux, Tailwind CSS, Git, GraphQL*  
+🌱 **Competent in:** *Jenkins, Kubernetes, Docker, Terraform, Helm, Azure DevOps, Docker Registry, GitHub, Keycloak, CNVault, interactions with APIs and RESTful Services*  
+☁️ **Cloud Experience:** *Microsoft Azure, AWS*  
+🛠️ **DevOps & Infrastructure:** *CI/CD Pipelines, Infrastructure as Code (IaC), Containerization, Secrets Management*  
+📜 **Scripting & Automation:** *Python, Bash, Linux Commands*  
+⚡ **Certified in:** AZ-900: Microsoft Azure Fundamentals, AZ-104: Azure Administrator Associate, AZ-400: DevOps Engineer Expert  
 💬 **Contact:** *www.linkedin.com/in/alankrita-mohapatra*
